@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root {
+    background-color: #4EBFE9;  
+    
+}
+
+.agrinho-div-conteudo{
+    width: 50%;
+    margin: 5%;
+    
+}
+.agrinho{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 0 0;
+}
+.agrinho-titulo{
+    text-align: center;
+    padding: 50px 0 ;
+}
+
+
+
+.campo-imagem{
+    margin: 10%;
+}
+.agro-todos{
+    color: white;
+    display: inline-block;
+    margin: 0  16px;
+    font-size: 20px;
+
+}
+.praga-imagem{
+    width: 500px;
+padding: 80px 0  0; 
+
+}
+
+.clima-imagem{
+width: 500px;
+padding: 80px 0  0;
+}
+
+.mosca-imagem{
+width: 500px;
+padding: 80px 0  0;
+}
+
+.stonks-imagem{
+width: 500px;
+padding: 80px 0  0;
+}
+
+.maodeobra-imagem{
+width: 500px;
+padding: 80px 0  0;
+}
+
+.agrotoxico-imagem{
+width: 500px;  
+padding: 80px 0  0;  
+}
+
+#praga{
+    display: flex;
+    justify-content: center;
+}
+#mosca{
+    display: flex;
+    justify-content: center;
+}
+#stonks{
+    display: flex;
+    justify-content: center;
+}
+#maodeobra{
+    display: flex;
+    justify-content: center;
+}
+#agrotoxico{
+    display: flex;
+    justify-content: center;
+}
+#clima{
+    display: flex;
+    justify-content: center;
+}
+.rodape{
+    padding: 50px  0;
+    background-color:#4EBFE9;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
